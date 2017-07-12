@@ -1,0 +1,15 @@
+{
+	"type": "mashup",
+	"name": "abastecimento",
+	"description": "Grid mashup template based on a Bootstrap grid to DAF/MS",
+	"homepage": "",
+	"author": "Anddrei Ferreira",
+	"version": "1.0.0",
+	"preview": "",
+	"keywords": "qlik-sense, mashup",
+	"license": "",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=1.0.x"
+	}
+}
